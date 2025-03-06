@@ -10,9 +10,13 @@ public class ApplicationDbContext : IdentityDbContext
         : base(options)
     {
     }
-    //Users table in the database
+
+    // Users table in the database
     public DbSet<User> Users { get; set; }
 
-    //PasswordCredentials table in the database
+    // PasswordCredentials table in the database
     public DbSet<PasswordCredential> PasswordCredentials { get; set; }
+
+    // UserProfiles table in the database
+    public DbSet<UserProfile> UserProfiles { get; set; }
 }
