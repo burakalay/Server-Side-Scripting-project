@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\SecurePasswordApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SecurePasswordApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\SecurePasswordApp.bundle.scp.css"
+      "PackagePath": "staticwebassets\\SecurePasswordApp.9z3uhf7hfa.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\SecurePasswordApp\\wwwroot\\css\\site.css",
@@ -243,6 +243,10 @@
     {
       "Id": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\SecurePasswordApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SecurePasswordApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SecurePasswordApp.Microsoft.AspNetCore.StaticWebAssets.props",

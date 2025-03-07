@@ -295,10 +295,10 @@ namespace SecurePasswordApp.Data.Migrations
 
                     b.HasKey("UserId");
 
-                    b.ToTable("Users");
+                    b.ToTable("User");
                 });
 
-            modelBuilder.Entity("UserProfile", b =>
+            modelBuilder.Entity("SecurePasswordApp.Models.UserProfile", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecurePasswordApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19e8617979c5c51b510d7a0c3a3b0798aa63d802")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecurePasswordApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecurePasswordApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

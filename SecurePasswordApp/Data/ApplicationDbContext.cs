@@ -11,8 +11,7 @@ public class ApplicationDbContext : IdentityDbContext
     {
     }
 
-    // Users table in the database
-    public DbSet<User> Users { get; set; }
+
 
     // PasswordCredentials table in the database
     public DbSet<PasswordCredential> PasswordCredentials { get; set; }
