@@ -57,7 +57,7 @@ namespace SecurePasswordApp.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,ServiceName,Username,Password")] PasswordCredential passwordCredential)
         {
-            if (id != passwordCredential.Id) return NotFound();
+            if (id != passwordCredential.PasswordCredentialId) return NotFound();
 
             if (ModelState.IsValid)
             {

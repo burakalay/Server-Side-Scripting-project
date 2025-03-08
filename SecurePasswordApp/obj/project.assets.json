@@ -7983,24 +7983,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Burak\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\legen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\SecurePasswordApp\\SecurePasswordApp.csproj",
+      "projectUniqueName": "C:\\Users\\legen\\Source\\Repos\\Server-Side-Scripting-project\\SecurePasswordApp\\SecurePasswordApp.csproj",
       "projectName": "SecurePasswordApp",
-      "projectPath": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\SecurePasswordApp\\SecurePasswordApp.csproj",
-      "packagesPath": "C:\\Users\\Burak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\SecurePasswordApp\\obj\\",
+      "projectPath": "C:\\Users\\legen\\Source\\Repos\\Server-Side-Scripting-project\\SecurePasswordApp\\SecurePasswordApp.csproj",
+      "packagesPath": "C:\\Users\\legen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\legen\\Source\\Repos\\Server-Side-Scripting-project\\SecurePasswordApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\legen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8008,7 +8003,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8026,8 +8020,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -8089,7 +8082,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -8098,7 +8091,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "SecurePasswordApp, Microsoft.VisualStudio.Web.CodeGeneration.Design (>= 8.0.13) öğesine bağlı ancak Microsoft.VisualStudio.Web.CodeGeneration.Design 8.0.13 bulunamadı. Bunun yerine Microsoft.VisualStudio.Web.CodeGeneration.Design 9.0.0 çözümlendi.",
+      "message": "SecurePasswordApp depends on Microsoft.VisualStudio.Web.CodeGeneration.Design (>= 8.0.13) but Microsoft.VisualStudio.Web.CodeGeneration.Design 8.0.13 was not found. An approximate best match of Microsoft.VisualStudio.Web.CodeGeneration.Design 9.0.0 was resolved.",
       "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
       "targetGraphs": [
         "net8.0"
