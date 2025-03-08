@@ -18,4 +18,6 @@ public class ApplicationDbContext : IdentityDbContext
 
     // UserProfiles table in the database
     public DbSet<UserProfile> UserProfiles { get; set; }
+
+public DbSet<SecurePasswordApp.Models.User> User { get; set; } = default!;
 }
