@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|c:\\users\\legen\\source\\repos\\server-side-scripting-project\\securepasswordapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|solutionrelative:securepasswordapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|c:\\users\\legen\\source\\repos\\server-side-scripting-project\\securepasswordapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|solutionrelative:securepasswordapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|c:\\users\\legen\\source\\repos\\server-side-scripting-project\\securepasswordapp\\controllers\\passwordcredentialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|solutionrelative:securepasswordapp\\controllers\\passwordcredentialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|c:\\users\\legen\\source\\repos\\server-side-scripting-project\\securepasswordapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|solutionrelative:securepasswordapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|c:\\users\\legen\\source\\repos\\server-side-scripting-project\\securepasswordapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|c:\\users\\legen\\source\\repos\\server-side-scripting-project\\securepasswordapp\\models\\passwordcredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|solutionrelative:securepasswordapp\\models\\passwordcredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|c:\\users\\legen\\source\\repos\\server-side-scripting-project\\securepasswordapp\\controllers\\passwordcredentialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|solutionrelative:securepasswordapp\\controllers\\passwordcredentialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\SecurePasswordApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecurePasswordApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\SecurePasswordApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SecurePasswordApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T01:15:02.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\SecurePasswordApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SecurePasswordApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\SecurePasswordApp\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "SecurePasswordApp\\wwwroot\\css\\site.css*",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-08T00:49:51.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\SecurePasswordApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SecurePasswordApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\SecurePasswordApp\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "SecurePasswordApp\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAABcAAAA",
+              "ToolTip": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\SecurePasswordApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SecurePasswordApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-08T00:12:01.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PasswordCredentialController.cs",
               "DocumentMoniker": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\SecurePasswordApp\\Controllers\\PasswordCredentialController.cs",
               "RelativeDocumentMoniker": "SecurePasswordApp\\Controllers\\PasswordCredentialController.cs",
               "ToolTip": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\SecurePasswordApp\\Controllers\\PasswordCredentialController.cs",
               "RelativeToolTip": "SecurePasswordApp\\Controllers\\PasswordCredentialController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBQAAAAMAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAA/wBQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T00:06:52.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PasswordCredential.cs",
               "DocumentMoniker": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\SecurePasswordApp\\Models\\PasswordCredential.cs",
               "RelativeDocumentMoniker": "SecurePasswordApp\\Models\\PasswordCredential.cs",
@@ -69,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\SecurePasswordApp\\Program.cs",
               "RelativeDocumentMoniker": "SecurePasswordApp\\Program.cs",
               "ToolTip": "C:\\Users\\legen\\source\\repos\\Server-Side-Scripting-project\\SecurePasswordApp\\Program.cs",
               "RelativeToolTip": "SecurePasswordApp\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T23:57:18.082Z",
               "EditorCaption": ""
