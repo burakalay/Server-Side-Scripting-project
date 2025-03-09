@@ -27,7 +27,7 @@ Stores the actual passwords for various websites. Each password entry is tied to
 
 ### CONTROLLERS
 #### HomeController.cs
-Home page of the SecurePass application
+Home page of the SecurePass application.
 
 #### UserController.cs
 Manages user authentication (User login and registration).
@@ -84,7 +84,7 @@ Fill in your details:
 * First Name and Last Name
 * Email Address
 * Username
-* Password
+* Password.
 Click Submit to complete the registration. Your details will be securely stored in the database.
 
 ### 3. Managing Your Password Credentials
@@ -96,7 +96,7 @@ Fill in the following details:
 * Website URL (optional, but recommended)
 * Website Username (your login username for the website)
 * Website Password (the password for the website)
-* Date Created (the current date)
+* Date Created (the current date).
 Select your Username from the dropdown to associate the password with your user account.
 Click Save to securely store the credentials.
 
@@ -116,7 +116,7 @@ Confirm the deletion in the popup to permanently remove the password from your a
 ### 4. User Account Management
 ##### To Edit Your User Information:
 Navigate to the User Login page to update your personal details.
-Click on Edit
+Click on Edit.
 Click Save to apply the changes.
 
 ##### To View Your Account Details:
