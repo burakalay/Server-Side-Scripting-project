@@ -8,7 +8,7 @@ Encryptify is a password management application designed to securely store and m
 #### User Model (User.cs)
 Stores user credentials for the Encryptify Application login. Allows users to register in to the app to enable them save their password credentials and keep track of their saved password credentials.
 ##### Components:
-* UserId (primary key in User Model and foreign key in PasswordCredential Model. Used to implement one-to-many relationship
+* UserId (primary key in User Model and foreign key in PasswordCredential Model. Used to implement one-to-many relationship)
 * First Name (User first name)
 * Last Name (User last name)
 * Email (User email address)
@@ -37,10 +37,10 @@ Manages the CRUD operations (Create, Read, Update, Delete) for saving and displa
 
 ### VIEWS
 #### Home Views
-Contains information about the application (description, purpose, team student names and numbers, course code and name)
+Contains information about the application (description, purpose, team student names and numbers, course code and name).
 ##### Components:
-Index.cshtml (default view for the HomeController)
-Privacy.cshtml (privacy page for the HomeController)
+* Index.cshtml (default view for the HomeController)
+* Privacy.cshtml (privacy page for the HomeController)
 
 #### User Views
 Includes views for user registration, login, and user-related tasks.
@@ -75,16 +75,16 @@ Allow users to add, view, edit, or delete password credentials.
 
 ## HOW TO USE THE APP
 ### 1. Access the App
-Go to [Encryptify App](encryptify-hbewgrgbgnb4g8bd.canadacentral-01.azurewebsites.net) to access the application
+Go to [Encryptify](https://encryptify-hbewgrgbgnb4g8bd.canadacentral-01.azurewebsites.net) to access the application.
 
 ### 2. Register a New Account
 On the homepage, click the User Login page and to create a new account.
 Click the Create New button.
 Fill in your details:
-- First Name and Last Name
-- Email Address
-- Username
-- Password
+* First Name and Last Name
+* Email Address
+* Username
+* Password
 Click Submit to complete the registration. Your details will be securely stored in the database.
 
 ### 3. Managing Your Password Credentials
@@ -92,11 +92,11 @@ On the homepage, go to the Password Credentials page
 ##### To create a new account:
 Click the Create New button.
 Fill in the following details:
-- Website Name (e.g., "Facebook")
-- Website URL (optional, but recommended)
-- Website Username (your login username for the website)
-- Website Password (the password for the website)
-- Date Created (the current date)
+* Website Name (e.g., "Facebook")
+* Website URL (optional, but recommended)
+* Website Username (your login username for the website)
+* Website Password (the password for the website)
+* Date Created (the current date)
 Select your Username from the dropdown to associate the password with your user account.
 Click Save to securely store the credentials.
 
