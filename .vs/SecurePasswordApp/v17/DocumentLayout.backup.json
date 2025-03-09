@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|c:\\users\\burak\\documents\\github\\server-side-scripting-project\\securepasswordapp\\controllers\\passwordcredentialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|solutionrelative:securepasswordapp\\controllers\\passwordcredentialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|c:\\users\\burak\\documents\\github\\server-side-scripting-project\\securepasswordapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|solutionrelative:securepasswordapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|c:\\users\\burak\\documents\\github\\server-side-scripting-project\\securepasswordapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C37798FD-33C3-4A7E-A0BE-2999D011E874}|SecurePasswordApp\\SecurePasswordApp.csproj|solutionrelative:securepasswordapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordCredentialsController.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\SecurePasswordApp\\Controllers\\PasswordCredentialsController.cs",
+              "RelativeDocumentMoniker": "SecurePasswordApp\\Controllers\\PasswordCredentialsController.cs",
+              "ToolTip": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\SecurePasswordApp\\Controllers\\PasswordCredentialsController.cs",
+              "RelativeToolTip": "SecurePasswordApp\\Controllers\\PasswordCredentialsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:26:37.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\SecurePasswordApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SecurePasswordApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\SecurePasswordApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SecurePasswordApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T18:47:53.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\SecurePasswordApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SecurePasswordApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Burak\\Documents\\GitHub\\Server-Side-Scripting-project\\SecurePasswordApp\\appsettings.Development.json",
+              "RelativeToolTip": "SecurePasswordApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T18:47:44.758Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
