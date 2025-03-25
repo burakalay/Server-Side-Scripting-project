@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E2Kv+X5sFZs=",
+  "dgSpecHash": "jQnQ22Czg3o=",
   "success": true,
-  "projectFilePath": "C:\\COMP2084-002-W25\\EncryptifyApp-Assign2\\EncriptifyApp\\EncriptifyApp\\EncriptifyApp.csproj",
+  "projectFilePath": "C:\\Encryptify-App-Assign2\\Server-Side-Scripting-project\\EncriptifyApp\\EncriptifyApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\divin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\divin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

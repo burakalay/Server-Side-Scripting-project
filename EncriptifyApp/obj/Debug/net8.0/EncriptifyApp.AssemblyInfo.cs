@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EncriptifyApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+236f178482e1efb059df151521d0337c0dfcd7d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("EncriptifyApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EncriptifyApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

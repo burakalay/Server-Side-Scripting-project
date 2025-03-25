@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\COMP2084-002-W25\\EncryptifyApp-Assign2\\EncriptifyApp\\EncriptifyApp\\EncriptifyApp.csproj": {}
+    "C:\\Encryptify-App-Assign2\\Server-Side-Scripting-project\\EncriptifyApp\\EncriptifyApp.csproj": {}
   },
   "projects": {
-    "C:\\COMP2084-002-W25\\EncryptifyApp-Assign2\\EncriptifyApp\\EncriptifyApp\\EncriptifyApp.csproj": {
+    "C:\\Encryptify-App-Assign2\\Server-Side-Scripting-project\\EncriptifyApp\\EncriptifyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\COMP2084-002-W25\\EncryptifyApp-Assign2\\EncriptifyApp\\EncriptifyApp\\EncriptifyApp.csproj",
+        "projectUniqueName": "C:\\Encryptify-App-Assign2\\Server-Side-Scripting-project\\EncriptifyApp\\EncriptifyApp.csproj",
         "projectName": "EncriptifyApp",
-        "projectPath": "C:\\COMP2084-002-W25\\EncryptifyApp-Assign2\\EncriptifyApp\\EncriptifyApp\\EncriptifyApp.csproj",
+        "projectPath": "C:\\Encryptify-App-Assign2\\Server-Side-Scripting-project\\EncriptifyApp\\EncriptifyApp.csproj",
         "packagesPath": "C:\\Users\\divin\\.nuget\\packages\\",
-        "outputPath": "C:\\COMP2084-002-W25\\EncryptifyApp-Assign2\\EncriptifyApp\\EncriptifyApp\\obj\\",
+        "outputPath": "C:\\Encryptify-App-Assign2\\Server-Side-Scripting-project\\EncriptifyApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
