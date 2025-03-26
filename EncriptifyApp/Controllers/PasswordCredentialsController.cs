@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EncriptifyApp.Data;
 using EncriptifyApp.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EncriptifyApp.Controllers
 {
@@ -46,6 +47,7 @@ namespace EncriptifyApp.Controllers
         }
 
         // GET: PasswordCredentials/Create
+        [Authorize]
         public IActionResult Create()
         {
             ViewData["UserDetailId"] = new SelectList(_context.UserDetails, "UserDetailId", "Email");
@@ -57,6 +59,8 @@ namespace EncriptifyApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize]
+
         public async Task<IActionResult> Create([Bind("PasswordCredentialId,WebsiteName,WebsiteUrl,WebsiteUsername,WebsitePassword,DateCreated,UserDetailId")] PasswordCredential passwordCredential)
         {
             if (ModelState.IsValid)
@@ -70,6 +74,8 @@ namespace EncriptifyApp.Controllers
         }
 
         // GET: PasswordCredentials/Edit/5
+        [Authorize]
+
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -91,6 +97,8 @@ namespace EncriptifyApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize]
+
         public async Task<IActionResult> Edit(int id, [Bind("PasswordCredentialId,WebsiteName,WebsiteUrl,WebsiteUsername,WebsitePassword,DateCreated,UserDetailId")] PasswordCredential passwordCredential)
         {
             if (id != passwordCredential.PasswordCredentialId)
@@ -123,6 +131,8 @@ namespace EncriptifyApp.Controllers
         }
 
         // GET: PasswordCredentials/Delete/5
+        [Authorize]
+
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -142,8 +152,11 @@ namespace EncriptifyApp.Controllers
         }
 
         // POST: PasswordCredentials/Delete/5
+
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize]
+
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var passwordCredential = await _context.PasswordCredentials.FindAsync(id);
