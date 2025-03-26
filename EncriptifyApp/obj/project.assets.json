@@ -8390,19 +8390,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\legen\\.nuget\\packages\\": {}
+    "C:\\Users\\divin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\legen\\OneDrive\\Desktop\\aspdotnet\\New folder\\New folder\\EncriptifyApp\\EncriptifyApp.csproj",
+      "projectUniqueName": "C:\\Encryptify-App-Assign2\\Server-Side-Scripting-project\\EncriptifyApp\\EncriptifyApp.csproj",
       "projectName": "EncriptifyApp",
-      "projectPath": "C:\\Users\\legen\\OneDrive\\Desktop\\aspdotnet\\New folder\\New folder\\EncriptifyApp\\EncriptifyApp.csproj",
-      "packagesPath": "C:\\Users\\legen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\legen\\OneDrive\\Desktop\\aspdotnet\\New folder\\New folder\\EncriptifyApp\\obj\\",
+      "projectPath": "C:\\Encryptify-App-Assign2\\Server-Side-Scripting-project\\EncriptifyApp\\EncriptifyApp.csproj",
+      "packagesPath": "C:\\Users\\divin\\.nuget\\packages\\",
+      "outputPath": "C:\\Encryptify-App-Assign2\\Server-Side-Scripting-project\\EncriptifyApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\legen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\divin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8427,7 +8432,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -8485,7 +8491,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

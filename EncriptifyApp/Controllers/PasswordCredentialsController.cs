@@ -21,6 +21,7 @@ namespace EncriptifyApp.Controllers
         }
 
         // GET: PasswordCredentials
+        [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
             var applicationDbContext = _context.PasswordCredentials.Include(p => p.UserDetail);
@@ -28,6 +29,7 @@ namespace EncriptifyApp.Controllers
         }
 
         // GET: PasswordCredentials/Details/5
+        [AllowAnonymous]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)

@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EncriptifyApp.Data;
 using EncriptifyApp.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EncriptifyApp.Controllers
 {
+    [Authorize]
     public class UserDetailsController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -20,12 +22,14 @@ namespace EncriptifyApp.Controllers
         }
 
         // GET: UserDetails
+        [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
             return View(await _context.UserDetails.ToListAsync());
         }
 
         // GET: UserDetails/Details/5
+        [AllowAnonymous]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
