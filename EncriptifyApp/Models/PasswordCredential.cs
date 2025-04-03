@@ -36,6 +36,7 @@ namespace EncriptifyApp.Models
 
 
         //UserDetailId - foreign key from parent table, User (to implement one-to-many relationship)
+        [Display(Name = "Email")]
         public int UserDetailId { get; set; }
 
 
